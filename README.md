@@ -1,4 +1,4 @@
-[note](https://github.com/lilei-c/lilei-c/wiki])
+[note](https://github.com/lilei-c/lilei-c/wiki)
 ### Hi there 👋
 
 <!--
