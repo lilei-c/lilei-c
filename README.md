@@ -1,3 +1,4 @@
+[note](https://github.com/lilei-c/lilei-c/wiki])
 ### Hi there 👋
 
 <!--
